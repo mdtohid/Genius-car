@@ -12,7 +12,7 @@ const Services = () => {
     // console.log(products);
 
     return (
-        <div className='mt-5'>
+        <div id='services' className='mt-5'>
             <h1 className='services-title'>Our Services</h1>
             <div className='services-container'>
                 {
